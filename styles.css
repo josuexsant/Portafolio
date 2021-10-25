@@ -1,0 +1,17 @@
+#headText {
+    background-color: aqua;
+}
+#headText p {
+    font-size: 30pt;
+    text-align: center;
+    padding-top: 20pt;
+    padding-bottom: 20pt;
+}
+body #mainMenu ul {
+    list-style-type: none;
+    align-items: center;
+    list-style: none;
+}
+body #mainMenu ul li {
+    display: inline-block;
+}
